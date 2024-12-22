@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Variables
-APP_URL="https://github.com/theophileTheKing/hello/releases/tag/1.0.0/hello"
+APP_URL="https://github.com/theophileTheKing/hello/releases/download/1.0.0/hello"
 INSTALL_DIR="/usr/local/bin"
 EXECUTABLE_NAME="hello"
 
