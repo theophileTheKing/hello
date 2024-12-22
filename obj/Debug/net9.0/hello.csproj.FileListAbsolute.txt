@@ -1,0 +1,14 @@
+/home/theophile/Desktop/dotnet/hello/bin/Debug/net9.0/hello
+/home/theophile/Desktop/dotnet/hello/bin/Debug/net9.0/hello.deps.json
+/home/theophile/Desktop/dotnet/hello/bin/Debug/net9.0/hello.runtimeconfig.json
+/home/theophile/Desktop/dotnet/hello/bin/Debug/net9.0/hello.dll
+/home/theophile/Desktop/dotnet/hello/bin/Debug/net9.0/hello.pdb
+/home/theophile/Desktop/dotnet/hello/obj/Debug/net9.0/hello.GeneratedMSBuildEditorConfig.editorconfig
+/home/theophile/Desktop/dotnet/hello/obj/Debug/net9.0/hello.AssemblyInfoInputs.cache
+/home/theophile/Desktop/dotnet/hello/obj/Debug/net9.0/hello.AssemblyInfo.cs
+/home/theophile/Desktop/dotnet/hello/obj/Debug/net9.0/hello.csproj.CoreCompileInputs.cache
+/home/theophile/Desktop/dotnet/hello/obj/Debug/net9.0/hello.dll
+/home/theophile/Desktop/dotnet/hello/obj/Debug/net9.0/refint/hello.dll
+/home/theophile/Desktop/dotnet/hello/obj/Debug/net9.0/hello.pdb
+/home/theophile/Desktop/dotnet/hello/obj/Debug/net9.0/hello.genruntimeconfig.cache
+/home/theophile/Desktop/dotnet/hello/obj/Debug/net9.0/ref/hello.dll
