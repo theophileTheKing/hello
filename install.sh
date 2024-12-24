@@ -16,7 +16,9 @@ echo "Downloading $EXECUTABLE_NAME..."
 curl -L $APP_URL -o $INSTALL_DIR/$EXECUTABLE_NAME
 
 mkdir -p ~/.config/hello
+echo "Created the config folder"
 echo "Je suis Théophile le meilleur" > ~/.config/hello/config.txt
+echo "created the config file"
 
 # Set the executable permissions
 chmod +x $INSTALL_DIR/$EXECUTABLE_NAME
